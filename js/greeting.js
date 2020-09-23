@@ -2,7 +2,7 @@ var today = new Date();
 var Hr = today.getHours();
 
 // Here you can change the greetings and your name
-var name = 'Emmanuel!';
+var name = 'Emmanuel !';
 var lateTxt = 'DEMACIADO TARDE A DORMIR ALV!  ';
 var morningTxt = 'Buenos Dias ';
 var afterTxt = 'Buenas Tardes ';
